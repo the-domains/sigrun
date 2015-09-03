@@ -1,6 +1,7 @@
 name: Sigrun
 favicon: null
-layout_spectrum: 0.8
+layout_spectrum: 0.6
+typography_spectrum: 0.77027
 cta:
   domain: null
   bucket: null
